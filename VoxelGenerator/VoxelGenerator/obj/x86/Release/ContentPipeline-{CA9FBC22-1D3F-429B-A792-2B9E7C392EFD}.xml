@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>fx\world.fx</Source>
+      <Name>fx\world</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\trevo\Documents\Visual Studio 2015\Projects\VoxelGenerator\VoxelGenerator\VoxelGenerator\bin\x86\Release\Content\fx\world.xnb</Output>
+      <Time>2016-01-19T16:18:05.8917608-08:00</Time>
+    </Item>
+    <Item>
+      <Source>fx\sky.fx</Source>
+      <Name>fx\sky</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\trevo\Documents\Visual Studio 2015\Projects\VoxelGenerator\VoxelGenerator\VoxelGenerator\bin\x86\Release\Content\fx\sky.xnb</Output>
+      <Time>2016-01-11T16:29:02.7579984-08:00</Time>
+    </Item>
+    <Item>
+      <Source>fx\billboard.fx</Source>
+      <Name>fx\billboard</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\trevo\Documents\Visual Studio 2015\Projects\VoxelGenerator\VoxelGenerator\VoxelGenerator\bin\x86\Release\Content\fx\billboard.xnb</Output>
+      <Time>2016-01-11T16:28:37.7275921-08:00</Time>
+    </Item>
+    <Item>
+      <Source>fx\debug.fx</Source>
+      <Name>fx\debug</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\trevo\Documents\Visual Studio 2015\Projects\VoxelGenerator\VoxelGenerator\VoxelGenerator\bin\x86\Release\Content\fx\debug.xnb</Output>
+      <Time>2016-01-13T21:43:50.9098105-08:00</Time>
+    </Item>
+    <Item>
+      <Source>fx\postfx.fx</Source>
+      <Name>fx\postfx</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\trevo\Documents\Visual Studio 2015\Projects\VoxelGenerator\VoxelGenerator\VoxelGenerator\bin\x86\Release\Content\fx\postfx.xnb</Output>
+      <Time>2016-01-19T17:28:24.0200085-08:00</Time>
+    </Item>
+    <Item>
+      <Source>font\dbfont.spritefont</Source>
+      <Name>font\dbfont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\trevo\Documents\Visual Studio 2015\Projects\VoxelGenerator\VoxelGenerator\VoxelGenerator\bin\x86\Release\Content\font\dbfont.xnb</Output>
+      <Time>2016-01-02T14:02:18.1633154-08:00</Time>
+    </Item>
+    <Item>
+      <Source>font\menufont.bmp</Source>
+      <Name>font\menufont</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\trevo\Documents\Visual Studio 2015\Projects\VoxelGenerator\VoxelGenerator\VoxelGenerator\bin\x86\Release\Content\font\menufont.xnb</Output>
+      <Time>2016-01-03T13:50:20.1582724-08:00</Time>
+    </Item>
+    <Item>
+      <Source>tex\block.png</Source>
+      <Name>tex\block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\trevo\Documents\Visual Studio 2015\Projects\VoxelGenerator\VoxelGenerator\VoxelGenerator\bin\x86\Release\Content\tex\block.xnb</Output>
+      <Time>2016-01-13T15:06:16.6930853-08:00</Time>
+    </Item>
+    <Item>
+      <Source>tex\sun.png</Source>
+      <Name>tex\sun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\trevo\Documents\Visual Studio 2015\Projects\VoxelGenerator\VoxelGenerator\VoxelGenerator\bin\x86\Release\Content\tex\sun.xnb</Output>
+      <Time>2016-01-11T16:37:37.7421789-08:00</Time>
+    </Item>
+    <Item>
+      <Source>sky\night.dds</Source>
+      <Name>sky\night</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\trevo\Documents\Visual Studio 2015\Projects\VoxelGenerator\VoxelGenerator\VoxelGenerator\bin\x86\Release\Content\sky\night.xnb</Output>
+      <Time>2016-01-10T22:55:57.390751-08:00</Time>
+    </Item>
+    <Item>
+      <Source>tex\moon.png</Source>
+      <Name>tex\moon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\trevo\Documents\Visual Studio 2015\Projects\VoxelGenerator\VoxelGenerator\VoxelGenerator\bin\x86\Release\Content\tex\moon.xnb</Output>
+      <Time>2016-01-10T23:48:18.1625706-08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{CA9FBC22-1D3F-429B-A792-2B9E7C392EFD}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\trevo\Documents\Visual Studio 2015\Projects\VoxelGenerator\VoxelGenerator\VoxelGeneratorContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\trevo\Documents\Visual Studio 2015\Projects\VoxelGenerator\VoxelGenerator\VoxelGenerator\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\trevo\Documents\Visual Studio 2015\Projects\VoxelGenerator\VoxelGenerator\VoxelGenerator\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\trevo\Documents\Visual Studio 2015\Projects\VoxelGenerator\VoxelGenerator\VoxelGenerator\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-01-01T03:51:51.1828203-08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
