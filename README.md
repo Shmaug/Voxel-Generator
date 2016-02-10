@@ -1,0 +1,3 @@
+# Voxel-Generator
+##Totally not a minecraft clone... with cool shaders...
+A fancy procedural voxel world generator with collision and some fancy shader effects.
